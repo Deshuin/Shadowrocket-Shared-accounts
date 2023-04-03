@@ -1,6 +1,6 @@
-# Shadowrocket-Shared-Accounts
+# Shadowrocket(小火箭)共享账号汇总
 
-Shadowrocket(小火箭)共享账号汇总
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/xhj.jpg)
 
 ## 项目信息
 
